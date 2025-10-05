@@ -9,6 +9,12 @@ My approach combines technical precision with creative problem-solving, ensuring
 
 Thank you for visiting my profile — I look forward to connecting and building impactful solutions together.
 
+<div style="display: flex;flex-direction:column;align-items:center"> 
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=hannaseraphim&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannaseraphim&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+
+
 ---
 <div align="center">
   <h1>Proficient in...</h1>
